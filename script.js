@@ -44,6 +44,16 @@ var Support = document.querySelector("#Support");
 
 var subMenu = document.querySelector(".submenu");
 
+var subMenu1 = document.querySelector(".submenu1");
+var subMenu2 = document.querySelector(".submenu2");
+var subMenu3 = document.querySelector(".submenu3");
+var subMenu4 = document.querySelector(".submenu4");
+var subMenu5 = document.querySelector(".submenu5");
+var subMenu6 = document.querySelector(".submenu6");
+var subMenu7 = document.querySelector(".submenu7");
+var subMenu8 = document.querySelector(".submenu8");
+var subMenu9 = document.querySelector(".submenu9");
+
 store.addEventListener("mousemove", function(){
   subMenu.style.top = "5%"
 })
@@ -53,73 +63,73 @@ store.addEventListener("mouseleave", function(){
 })
 
 mac.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu1.style.top = "5%"
 })
 
 mac.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu1.style.top = "-100%"
 })
 
 iPad.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu2.style.top = "5%"
 })
 
 iPad.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu2.style.top = "-100%"
 })
 
 iPhone.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu3.style.top = "5%"
 })
 
 iPhone.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu3.style.top = "-100%"
 })
 
 watch.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu4.style.top = "5%"
 })
 
 watch.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu4.style.top = "-100%"
 })
 
 airPods.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu5.style.top = "5%"
 })
 
 airPods.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu5.style.top = "-100%"
 })
 
 Tv.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu6.style.top = "5%"
 })
 
 Tv.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu6.style.top = "-100%"
 })
 
 Entertainment.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu7.style.top = "5%"
 })
 
 Entertainment.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu7.style.top = "-100%"
 })
 
 Accessories.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu8.style.top = "5%"
 })
 
 Accessories.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu8.style.top = "-100%"
 })
 
 Support.addEventListener("mousemove", function(){
-  subMenu.style.top = "5%"
+  subMenu9.style.top = "5%"
 })
 
 Support.addEventListener("mouseleave", function(){
-  subMenu.style.top = "-100%"
+  subMenu9.style.top = "-100%"
 })

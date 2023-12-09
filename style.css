@@ -445,6 +445,7 @@ nav i{
 
 .submenu{
   top: -100%;
+  display: inline-block;
   position: absolute;
   width: 100%;
   height: 95vh;
@@ -452,6 +453,91 @@ nav i{
   transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
   pointer-events: none;
 }
+.submenu1{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+.submenu2{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+.submenu3{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+.submenu4{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+.submenu5{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+.submenu6{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+
+.submenu7{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+
+.submenu8{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+
+.submenu9{
+  top: -100%;
+  position: absolute;
+  width: 100%;
+  height: 95vh;
+  z-index: 999;
+  transition: all cubic-bezier(0.19, 1, 0.22, 1)1s;
+  pointer-events: none;
+}
+
 
 .sub-top{
   display: flex;
@@ -469,6 +555,7 @@ nav i{
   color: #333;
 
 }
+
 
 .sub-btm{
   width: 100%;
